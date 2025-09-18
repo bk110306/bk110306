@@ -2,7 +2,7 @@
 🔭 I’m currently working on on Advance MERN Stack Project with NEXT.js, NESTJS and PostgreSQL.<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with React Native, .NET<br>🌱 I’m currently learning .NET, C# and React Native<br>💬 Ask me about MERN Stack, React.js, NEXT.js, NESTJS, Express.js, Node.js.<br>⚡ Fun fact  I once spent 6 hours fixing a bug... and it turned out to be a missing dash in the variable! 😅<br>📫 How to reach me devburhan1106@gmail.com<br>📄 Know about my experiences https://online.fliphtml5.com/gwngzw/dvek/
 
 
-## 🌐 Socials:
+## <center>🌐 Socials:</center>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/burhan11_03) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15w9A8SS52/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mburhankhan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-burhan-khan-41263631a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devburhan1106@gmail.com) 
 
 # 💻 Tech Stack:
