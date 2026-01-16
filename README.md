@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on on Advance MERN Stack Project with NEXT.js, NESTJS and PostgreSQL.<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with React Native, .NET<br>🌱 I’m currently learning .NET, C# and React Native<br>💬 Ask me about MERN Stack, React.js, NEXT.js, NESTJS, Express.js, Node.js.<br>⚡ Fun fact  I once spent 6 hours fixing a bug... and it turned out to be a missing dash in the variable! 😅<br>📫 How to reach me devburhan1106@gmail.com<br>📄 Know about my experiences https://online.fliphtml5.com/gwngzw/Burhan-Khan-Resume/
+👨🏼‍💻I’m currently working on on Advance MERN Stack Project with NEXT.js, NESTJS and PostgreSQL.<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with React Native, .NET<br>🌱 I’m currently learning .NET, C# and React Native<br>💬 Ask me about MERN Stack, React.js, NEXT.js, NESTJS, Express.js, Node.js.<br>⚡ Fun fact  I once spent 6 hours fixing a bug... and it turned out to be a missing dash in the variable! 😅<br>📫 How to reach me devburhan1106@gmail.com<br>📄 Know about my experiences https://online.fliphtml5.com/gwngzw/Burhan-Khan-Resume/
 
 
 ## 🌐 Socials:
